@@ -16,7 +16,7 @@ SELECT * FROM read_csv_auto('data/raw/daily_calories_raw.csv');
 CREATE OR REPLACE TABLE daily_intensities_raw AS
 SELECT * FROM read_csv_auto('data/raw/daily_intensities_raw.csv');
 
--- Step 1: Segment 1 (up to 2016-04-11) - Removing negatives and NULLs.
+-- Step 1: Segment 1 (2016-03-12 to 2016-04-11) - Removing negatives and Nulls.
 segment1 AS (
   SELECT
     Id,
