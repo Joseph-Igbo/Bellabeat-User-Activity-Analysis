@@ -1,5 +1,5 @@
 # Raw Data
-This folder contains the original undmodified CSV files used in the Bellabeat Capstone Project.
+This folder contains the original unmodified CSV files used in the Bellabeat User Activity Analysis.
 These datasets were sourced from Fitbit user activity tracking and cover two periods:
 
 ## Files 
