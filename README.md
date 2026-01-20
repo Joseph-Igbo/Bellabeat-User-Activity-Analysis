@@ -12,7 +12,7 @@ The insights translate into actionable business recommendations aimed at improvi
 
 ## How to Explore the Project
 
-- **Live Report (HTML):** Accessible via GitHub Pages: [View Report](https://joseph-igbo.github.io/Bellabeat-Capstone-Analysis/)  
+- **Live Report (HTML):** Accessible via GitHub Pages: [View Report](https://joseph-igbo.github.io/Bellabeat-User-Activity-Analysis/)  
  
 - **R Markdown File:** `R/Bellabeat_Capstone.Rmd` – can be knitted locally to reproduce the report.  
 
